@@ -22,7 +22,7 @@ A tight collection of copy/paste prompts for everyday dev work. No setup, no fil
 > Long function doing too much? Break it down.
 
 ```
-Look at the code I'm sharing. Identify all the responsibilities it handles and refactor it into smaller, focused methods — each with a single, clear purpose. Keep the original behavior intact. Show the refactored version.
+Look at the code I'm sharing. Identify all the responsibilities it handles and refactor it into smaller, focused methods — each with a single, clear purpose. Keep the original behavior intact. Show the refactored version. If neccesary, review the code and re-write it to modern programming standards and formatting.
 ```
 
 <sup>[⬆️ Back to top](#table-of-contents)</sup>
